@@ -28,5 +28,8 @@ A miniature Cross-Cultural Captions (C3) dataset is used containing:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/c3-benchmark.git
-cd c3-benchmark
+https://github.com/AbdealiDarugarhwala1402/Text-to-Image-model.git
+cd Text-to-Image-model
+
+pip install torch diffusers transformers pandas numpy seaborn matplotlib opencv-python
+
